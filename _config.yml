@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 数据在手，天下我有！！！
+title: 数据在手，天下我有！！！22
 subtitle: '123123'
 description: ''
 keywords:
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: Anatolo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
